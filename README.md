@@ -1,5 +1,5 @@
 # The_colourful_world
-The colourful world of the strong force is a 3D printable set of particle physics toys designed to teach children (and enthusiastic adults) about quarks, the fundamental particles that make up protons and neutrons.
+The colourful world of the strong force is a 3D printable set of particle physics toys designed to teach children (and enthusiastic adults) about quarks, the fundamental particles that make up protons, neutrons and the many other composite hadrons seen at experiments such as the Large Hadron Collider.
 
 The files provided are in 3MF format, ready for slicing and exporting to G-code. Depending on your 3D printer setup, you may or may not need to include supports.
 
