@@ -7,8 +7,10 @@ The connections include holes which should allow for press fitting 2mmx2mm cylin
 
 The "vertex" pieces also require gluing together - these must be done in the following combinations if the toys are to correspond to physical hadrons:
 
-3 female connectors, all different colours, in a "Y" shape.
-3 male connectors, all different colours, in a "Y" shape.
-1 male connector and 1 female connector of the same colour together with 1 male connector and 1 female connector of the same colour in a tetrahedral shape.
+- 3 female connectors, all different colours, in a "Y" shape.
+
+- 3 male connectors, all different colours, in a "Y" shape.
+
+- 1 male connector and 1 female connector of the same colour together with 1 male connector and 1 female connector of the same colour in a tetrahedral shape.
 
 finally, there are pieces which look similar to hose connectors. These are to allow for more complicated connections to be assembled, and require suitable lengths of hose to be pressed on. I have opted for 7mmID silicone hoses, as these seem to be easy to source in red, green and blue.
