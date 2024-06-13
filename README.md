@@ -6,7 +6,7 @@ The files provided are in 3MF format, ready for slicing and exporting to G-code,
 
 The connections include holes which should allow for press fitting 2mmx2mm cylindrical neodymium magnets. These can be a bit tricky to get in at first, but once you have a magnet in a male connector this can be used as a jig to hold a magnet for insertion into a matching female connection and vice versa (a small rubber mallet makes this process much easier in my experience). Though the press fittings are reasonably tight, due to variations in tolerance between 3D printers I advise also using an adhesive, such as a cyanoacrylate "super glue".
 
-The "vertex" pieces also require gluing together - these must be done in the following combinations if the toys are to correspond to physical hadrons:
+The "vertex" pieces also require glueing together - these must be done in the following combinations if the toys are to correspond to physical hadrons:
 
 - 3 female connectors, all different colours, in a "Y" shape.
 
