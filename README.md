@@ -13,4 +13,4 @@ The "vertex" pieces also require gluing together - these must be done in the fol
 
 - 1 male connector and 1 female connector of the same colour together with 1 male connector and 1 female connector of the same colour in a tetrahedral shape.
 
-finally, there are pieces which look similar to hose connectors. These are to allow for more complicated connections to be assembled, and require suitable lengths of hose to be pressed on, with a male piece at one end and a female piece of the same colour at the other end. I have opted for 7mmID silicone hoses, as these seem to be easy to source in red, green and blue.
+finally, there are pieces which look similar to hose connectors. These are to allow for more complicated connections to be assembled, and require ~10cm lengths of hose to be pressed on, with a male piece at one end and a female piece of the same colour at the other end. I have opted for 7mmID silicone hoses, as these seem to be easy to source in red, green and blue.
