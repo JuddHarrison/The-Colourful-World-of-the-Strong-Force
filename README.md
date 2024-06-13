@@ -21,4 +21,3 @@ Finally, there are pieces which look similar to hose connectors. These are to al
 Once the toys have been assembled, you can have fun testing out what different hadrons you can make by linking them together without any loose connections. You can even test yourself to make some from the ever growing list of particles discovered at the LHC https://www.nikhef.nl/~pkoppenb/particles.html
 
 Any feedback is appreciated, and should be directed to judd.harrison@glasgow.ac.uk
-
