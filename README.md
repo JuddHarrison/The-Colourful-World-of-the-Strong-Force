@@ -3,7 +3,7 @@ The colourful world of the strong force is a 3D printable set of particle physic
 
 The files provided are in 3MF format, ready for slicing and exporting to G-code, and should be printed using red, green and blue filaments corresponding to their file names. Depending on your 3D printer setup, you may or may not need to include supports.
 
-The connections include holes which should allow for press fitting 2mmx2mm cylindrical neodymium magnets. These can be a bit tricky to get in at first, but once you have a magnet in a male connector this can be used as a jig to hold a magnet for insertion into a matching female connection and vice versa (a small rubber mallet makes this process much easier in my experience). Though the press fittings are reasonably tight, due to variations in tolerance between 3D printers I would advise also using an adhesive, such as a cyanoacrylate "super glue".
+The connections include holes which should allow for press fitting 2mmx2mm cylindrical neodymium magnets. These can be a bit tricky to get in at first, but once you have a magnet in a male connector this can be used as a jig to hold a magnet for insertion into a matching female connection and vice versa (a small rubber mallet makes this process much easier in my experience). Though the press fittings are reasonably tight, due to variations in tolerance between 3D printers I advise also using an adhesive, such as a cyanoacrylate "super glue".
 
 The "vertex" pieces also require gluing together - these must be done in the following combinations if the toys are to correspond to physical hadrons:
 
