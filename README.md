@@ -15,4 +15,6 @@ The "vertex" pieces also require gluing together - these must be done in the fol
 
 Finally, there are pieces which look similar to hose connectors. These are to allow for more complicated connections to be assembled, and require ~10cm lengths of hose to be pressed on, with a male piece at one end and a female piece of the same colour at the other end. I have opted for 7mmID silicone hoses, as these seem to be easy to source in red, green and blue.
 
+Once the toys have been assembled, you can have fun testing out what different hadrons you can make by linking them together without any loose connections. You can even test yourself to make some from the ever growing list of particles discovered at the LHC https://www.nikhef.nl/~pkoppenb/particles.html
+
 Any feedback is appreciated, and should be directed to judd.harrison@glasgow.ac.uk
