@@ -2,7 +2,7 @@
 # The Colourful World of the Strong Force
 The colourful world of the strong force is a 3D printable set of particle physics toys designed to teach children (and enthusiastic adults) about quarks, the fundamental particles that make up protons, neutrons and the many other hadrons seen at experiments such as the Large Hadron Collider.
 
-The files provided are in 3MF format, ready for slicing and exporting to G-code, and should be printed using red, green and blue filaments corresponding to their file names. Depending on your 3D printer setup, you may or may not need to include supports.
+The files provided are in 3MF format, ready for slicing and exporting to G-code, and should be printed using red, green and blue filaments corresponding to their file names. If you have access to enough filament colours, you might wish to print the anti-quarks and female vertex components separately in the corresponding "anti-colours": magenta for anti-green, yellow for anti-blue and cyan for anti-red. Depending on your 3D printer setup, you may also need to include supports.
 
 The connections include holes which should allow for press fitting 2mmx2mm cylindrical neodymium magnets. These can be a bit tricky to get in at first, but once you have a magnet in a male connector this can be used as a jig to hold a magnet for insertion into a matching female connection and vice versa (a small rubber mallet makes this process much easier in my experience). Though the press fittings are reasonably tight, due to variations in tolerance between 3D printers I advise also using an adhesive, such as a cyanoacrylate "super glue".
 
