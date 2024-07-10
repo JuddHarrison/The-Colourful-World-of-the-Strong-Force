@@ -8,7 +8,7 @@ The connections include holes which should allow for press fitting 2mmx2mm cylin
 
 The "vertex" pieces also require glueing together - these must be done in the following combinations if the toys are to correspond to physical hadrons:
 
-- 3 female connectors, all different colours, in a "Y" shape.
+- 3 female connectors, all different colours/anti-colours, in a "Y" shape.
 
 - 3 male connectors, all different colours, in a "Y" shape.
 
