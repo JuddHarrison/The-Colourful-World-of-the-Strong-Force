@@ -12,7 +12,7 @@ The "vertex" pieces also require glueing together - these must be done in the fo
 
 - 3 male connectors, all different colours, in a "Y" shape.
 
-- 1 male connector and 1 female connector of the same colour together with 1 male connector and 1 female connector of the same colour in a tetrahedral shape.
+- 1 male connector and 1 female connector of the same colour/anti-colour together with 1 male connector and 1 female connector of the same colour/anti-colour in a tetrahedral shape.
 
 The completed quarks and connectors should look like this: ![image](https://github.com/JuddHarrison/The_colourful_world/assets/82884958/50acf89c-1b37-478d-a086-ed7ca8d473fb)
 
