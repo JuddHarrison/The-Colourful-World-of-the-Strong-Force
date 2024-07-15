@@ -18,9 +18,8 @@ The completed quarks and connectors should look like this: ![image](https://gith
 
 Or, if you choose to use "anti-colours" magenta, yellow and cyan, like this: ![image](https://github.com/JuddHarrison/The-Colourful-World-of-the-Strong-Force/assets/82884958/d0753b1e-9c6f-4848-a75a-630330f6bab0)
 
-
 Finally, there are pieces which look similar to hose connectors. These are to allow for more complicated connections to be assembled, and require ~10cm lengths of hose to be pressed on, with a male piece at one end and a female piece of the same colour at the other end. I have opted for 7mmID silicone hoses, as these seem to be easy to source in red, green and blue.
 
-Once the toys have been assembled, you can have fun testing out what different hadrons you can make by linking them together without any loose ends. You can even test yourself to make some from the ever growing list of particles discovered at the LHC https://www.nikhef.nl/~pkoppenb/particles.html
+Once the toys have been assembled, you can have fun testing out what different hadrons you can make by linking them together without any loose ends. You can even test yourself to make some from the ever growing list of particles discovered at the LHC https://www.nikhef.nl/~pkoppenb/particles.html. For example, here is the cbarcuud pentaquark-charmonium state of https://arxiv.org/abs/1507.03414: ![tetraquark](https://github.com/user-attachments/assets/f6519e80-376c-4c4e-8af3-24d25a9c2cef)
 
 Any feedback is appreciated, and should be directed to judd.harrison@glasgow.ac.uk
